@@ -1,4 +1,4 @@
-## Olá mundo, sou a Werbyston Lemos.
+## Olá mundo, sou Werbyston Lemos.
 <div align="center">
   <a href="https://github.com/WerbystonLemos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WerbystonLemos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
